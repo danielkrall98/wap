@@ -29,7 +29,7 @@ werden). Zum Format dieser Files siehe google .pgm oder ahnlich.
 * Latex-version eines "Papers" über die jeweiligen Präsentationen in .pdf Format, Gliederung und Struktur soll sich am im VP besprochenen Schema orientieren. Diese muss enthalten zumindest
   * ein Literaturverzeichnis, mit bibtex erzeugt, korrekte Einträge sind wichtig (d.h. was muss z.b. bei einem Buch alles angegeben werden), es muss zumindest jeder der besprochenen Publikationstypen 1x vorkommen (wenn nichts themenbezogenes gefunden wird, kann ein beliebiger Eintrag verwendet werden).
   * Es wird auch die Form des Dokuments beurteilt !
-* Zusaetzlich erstellen sie bitte eine zweite Version als .ps file, wo sie den IEEE Konferenz stylefile verwenden (z.B. zu finden [hier]([https://duckduckgo.com](https://www.cosy.sbg.ac.at/~uhl/IEEEStyle.txt))).
+* Zusaetzlich erstellen sie bitte eine zweite Version als .ps file, wo sie den IEEE Konferenz stylefile verwenden (z.B. zu finden [hier](https://www.cosy.sbg.ac.at/~uhl/IEEEStyle.txt)).
 * PDF-Slideshow der Präsentation, mit Latex Beamerpackage erzeugt
 
 **Abgabe**:
