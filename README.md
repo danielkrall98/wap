@@ -22,5 +22,10 @@ werden (wobei jeder Pixel durch den Ruckgabewert ersetzt wird) und die drei ¨
 Ergebnisse sollen mit fprintf in je ein File geschrieben werden, sodass korrekt
 formatierte ascii .pgm Files entstehen (die dann mit einem Bildbearbeitungsprogramm
 betrachtet werden sollen; dazu muss naturlich auch ein korrekter Header geschrieben ¨
-werden). Zum Format dieser Files siehe google .pgm oder ahnlich.
+werden). Zum Format dieser Files siehe google .pgm oder ahnlich.   
 [ ACHTUNG: die Aufgabe ist natürlich in Mathematica zu programmieren, die Ausgabe der manipulierten Bilder kann durch eingebaute mathematica Funktionen vorgenommen werden. Abzugeben sind hier mathematica Notebook und die verwendeten und entstandenen Bilder. ]
+
+**Paper:**   
+* Latex-version eines "Papers" über die jeweiligen Präsentationen in .pdf Format, Gliederung und Struktur soll sich am im VP besprochenen Schema orientieren. Diese muss enthalten zumindest
+  * ein Literaturverzeichnis, mit bibtex erzeugt, korrekte Einträge sind wichtig (d.h. was muss z.b. bei einem Buch alles angegeben werden), es muss zumindest jeder der besprochenen Publikationstypen 1x vorkommen (wenn nichts themenbezogenes gefunden wird, kann ein beliebiger Eintrag verwendet werden).
+* 
