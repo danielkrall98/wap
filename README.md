@@ -31,4 +31,6 @@ werden). Zum Format dieser Files siehe google .pgm oder ahnlich.
   * Es wird auch die Form des Dokuments beurteilt !
 * Zusaetzlich erstellen sie bitte eine zweite Version als .ps file, wo sie den IEEE Konferenz stylefile verwenden (z.B. zu finden [hier]([https://duckduckgo.com](https://www.cosy.sbg.ac.at/~uhl/IEEEStyle.txt))).
 * PDF-Slideshow der Präsentation, mit Latex Beamerpackage erzeugt
-* Abgabeform: Latexdokument nach HTML konvertieren, sie schicken mir nur die URL dieses Dokuments. Am Anfang des Dokuments fuegen sie bitte links auf die PDF slideshow und auf ein Verzeichnis ein, in dem latex-source, .pdf file, .ps file, .bib file, sowie alle Files (inklusive Source-files) der vier Hausuebungen (jeweils in Unterverzeichnissen) liegen.
+
+**Abgabe**:
+Abgabeform: Latexdokument nach HTML konvertieren, sie schicken mir nur die URL dieses Dokuments. Am Anfang des Dokuments fuegen sie bitte links auf die PDF slideshow und auf ein Verzeichnis ein, in dem latex-source, .pdf file, .ps file, .bib file, sowie alle Files (inklusive Source-files) der vier Hausuebungen (jeweils in Unterverzeichnissen) liegen.
